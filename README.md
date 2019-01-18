@@ -18,3 +18,6 @@ after deploying th game through the application the address of the contract will
 <a href="https://www.youtube.com/watch?v=J7PXiK8Ap94
 " target="_blank"><img src="http://img.youtube.com/vi/J7PXiK8Ap94/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+###Thanks
+I really appreciate [Mr. juan Blanco](https://github.com/juanfranblanco) who created the nethereum library and resolved some issues of this project. This is my first code of Blockchain's World and nethereum and I know there can be lots of improvments. i weill be glad to hear from you guys.  
