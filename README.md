@@ -12,7 +12,8 @@ single user applications.
 There are a few language to develop programs which can be run on Ethereum blockchain, we used the most famous one [solidity](https://solidity.readthedocs.io/en/v0.5.2/).
 you can compile your solidity codes with [Remix website](https://remix.ethereum.org/) or use [Visual studio Code](https://code.visualstudio.com/)
 
-
+### Game description
+after deploying th game through the application the address of the contract will be added to the list of addresses. so you need to choose which contract you want to play. then both players need to join the game and start to bet, one by one, until both reach to an aggrement ont the bet amount. 
 
 <a href="https://www.youtube.com/watch?v=J7PXiK8Ap94
 " target="_blank"><img src="http://img.youtube.com/vi/J7PXiK8Ap94/0.jpg" 
