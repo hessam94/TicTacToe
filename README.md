@@ -20,4 +20,4 @@ after deploying th game through the application the address of the contract will
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Thanks
-I really appreciate [Mr. juan Blanco](https://github.com/juanfranblanco) who created the nethereum library and resolved some issues of this project. This is my first code of Blockchain's World and nethereum and I know there can be lots of improvments. i weill be glad to hear from you guys.  
+I really appreciate [Mr. juan Blanco](https://github.com/juanfranblanco) and [Mr. Dave whiffin](https://github.com/Dave-Whiffin) who created the nethereum library and resolved some issues of this project. This is my first code of Blockchain's World and I know there can be lots of improvments. i will be glad to hear from you guys.  
