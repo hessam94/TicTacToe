@@ -5,7 +5,7 @@ I used [solidity](https://solidity.readthedocs.io/en/v0.5.2/) to develop the bac
 ### Test Network
 we set a test network to be able to play online. You can use some pre configured test netwroks or set your net. We configured our test network. You can find how
 to set a test network between two or more computers [here](https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f)
-.very important point is that you MUST have the same Genesis file on all sides and give enough alloc and have all user files on all sides. (UTC--...)
+.very important point is that you MUST have the same Genesis file on all sides and give enough alloc and have all user files on all sides. (in your keystore file: UTC--...)
 We got help from [this test chain](https://github.com/Nethereum/Testchains) but you should consider that the files are modified a bit, becaues this test chain is proper for 
 single user applications.
 ### Solidity 
